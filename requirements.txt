@@ -5,3 +5,4 @@ langchain-community
 python-dotenv
 langchain-openai
 langgraph-cli[inmem]
+langchain-groq
